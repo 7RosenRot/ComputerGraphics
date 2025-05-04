@@ -1,0 +1,17 @@
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory_Work_2.Form1.resources
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory_Work_2.Properties.Resources.resources
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.exe.config
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.exe
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.pdb
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\OpenTK.dll
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\OpenTK.GLControl.dll
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\OpenTK.pdb
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\OpenTK.xml
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\OpenTK.dll.config
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\bin\Debug\OpenTK.GLControl.xml
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laborato.E5042B9F.Up2Date
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.exe
+D:\Microsoft Visual Studio\Visual Studio 2022\Others\Computer Graphics\Laboratory Work 2\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.pdb
